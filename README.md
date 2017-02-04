@@ -16,4 +16,7 @@ Robert Putnam bygger sin teori om demokrati på medborgarnas medverkan och intre
 
 ## Dagens diskussion om "Blockchain och demokrati"
 
-##
+##Förtroende och tillit genom blockchain
+
+I Sverige har valdeltagandet ökat sedan 2002 fram till senaste valet 2014. Valdeltagandet är dock fortfarande långt ifrån de toppnoteringar som registrerats(http://www.scb.se/hitta-statistik/sverige-i-siffror/val-och-partier/valdeltagande/). Dessvärre har förtroendet för samhällsinstitutioner, politiker och media sjunkit år efter år(https://tns-sifo.se/sites/default/files/reports/documents/fortroendebarometern_2016.pdf). Om människor inte har förtroende för varandra kan de då ha förtroende att teknik. Putnam beskriver hur tillit mellan medborgare är grundstommen för en demokrati. Kan teknik som blockchain med dess fördelar vad gäller verifiering fungera som ett instrument som ökar förtroendet för politiker, myndigheter och media. Eller kommer tekniken helt enkelt ha ihjäl yrkesgruppen politiker när teknik ger medborgarna själva möjligheten att rösta i frågor som tidigare förvaltats genom det mandat förtroendevalda representanter haft. Förtroendetappet för politiker och institutioner kan mycket väl bero på att medborgarna inte tycker att deras representanter representerar deras intressen. 
+
