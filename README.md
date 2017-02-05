@@ -7,7 +7,7 @@
 ## Inledning
 
 
-Blockchainteknik, en teknik som inte väcker alltför stor uppmärksamhet hos den stora massan. Men vad skulle du tänka om jag säger att det är en av de största innovationerna på tvåhundra år? Alex Tapscott, VD och grundare för Northwest Passage Ventures och ivrig förespråkare av blockchainteknik, tror att blockchainteknik är den tekniks som fundamentalt kommer förändra vår värld(https://www.youtube.com/watch?v=3PdO7zVqOwc). Blockchainteknik förknippas idag med Bitcoin och andra elektroniska valutor som används i ett spekulativt syfte. Frågan är vad tekniken mer har att erbjuda. Ett, enligt mig som författare, intressant område som säkert kommer påverkas är hur vi ser på demokrat. Jag kommer därför i essän redogöra för min syn om hur demokrati kan utvecklas om blockchaintekniken får det genombrott som förutspås.
+<span style="font-family: 'Times New Roman';">Blockchainteknik, en teknik som inte väcker alltför stor uppmärksamhet hos den stora massan. Men vad skulle du tänka om jag säger att det är en av de största innovationerna på tvåhundra år? Alex Tapscott, VD och grundare för Northwest Passage Ventures och ivrig förespråkare av blockchainteknik, tror att blockchainteknik är den tekniks som fundamentalt kommer förändra vår värld(https://www.youtube.com/watch?v=3PdO7zVqOwc). Blockchainteknik förknippas idag med Bitcoin och andra elektroniska valutor som används i ett spekulativt syfte. Frågan är vad tekniken mer har att erbjuda. Ett, enligt mig som författare, intressant område som säkert kommer påverkas är hur vi ser på demokrat. Jag kommer därför i essän redogöra för min syn om hur demokrati kan utvecklas om blockchaintekniken får det genombrott som förutspås.</span>
 
 ## Om tekniken "Blockchain"
 
