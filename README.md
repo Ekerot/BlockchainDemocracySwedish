@@ -53,3 +53,7 @@ Publicerad: 11 juli 2016 Tillgänglig: https://www.youtube.com/watch?v=3PdO7zVqO
 
 [2] A. Tapascott och D. Tapascott, *Blockchain revolution: How the technology behind Bitcoin is changing the money, buisness and the world*, Storbrittanien: Penguin Books, 2016. 
 
+[3] M. Malkovský, *The concept of smart contracts*, Essä, Faculty of Law, Finland: University of Turku, 2015.
+
+
+
