@@ -63,3 +63,4 @@ Publicerad: 11 juli 2016 Tillgänglig: https://www.youtube.com/watch?v=3PdO7zVqO
 
 [7] "Förtroendebarometern”, TNS-Sifo, 7 april 2016. [Online] Tillgänglig: https://tns-sifo.se/sites/default/files/reports/documents/fortroendebarometern_2016.pdf [Hämtad: 3 februari, 2017]
 
+[8] G. Lindén, *Från demokrati till e-demokrati: En jämförande studie av demokratiutveckling i det moderna samhället*, Avhandling för avläggande av filosofie doktorsexamen, Department of Social Science, Sverige: Mittuniversitetet, 2011.
