@@ -57,7 +57,7 @@ Publicerad: 11 juli 2016 Tillgänglig: https://www.youtube.com/watch?v=3PdO7zVqO
 
 [4] R. D. Putnam *Den fungerande demokratin: Medborgarandans rötter i Italien*, andra upplagan, Stockholm: SNS Förlag, 2011.
 
-[5] B. Rothstein och S. Kumlin, "DEMOKRATI, SOCIALT KAPITAL OCH FÖRTROENDE” i *Land, Du välsignade?: SOM-rapport nr 26*, S. Holmberg och L Weibull, Göteborg: SOM-institutet, 2000, s. 49 - 62.
+[5] B. Rothstein och S. Kumlin, "Demokrati, Socialt kapital Ooch Förtroende” i *Land, Du välsignade?: SOM-rapport nr 26*, S. Holmberg och L Weibull, Göteborg: SOM-institutet, 2000, s. 49 - 62.
 
 [6] "Vanligare att rösta i riksdagsvalet på senare år”, Statistiska centralbyrån, [Online] Tillgänglig: http://www.scb.se/hitta-statistik/sverige-i-siffror/val-och-partier/valdeltagande/ [Hämtad: 3 februari, 2017]
 
