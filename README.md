@@ -5,7 +5,7 @@
 
 
 
-<br>
+<br><br><br>
 
 
 Det har i många år inom statsvetenskaplig forskning pratats om demokrati över internet som nästa steg i demokratins utveckling. Blockchainteknik, är en teknik som inte väcker alltför stor uppmärksamhet hos den stora massan. Men vad skulle du tänka om jag säger att det är en av de största innovationerna på tvåhundra år? Alex Tapscott, VD och grundare för Northwest Passage Ventures och ivrig förespråkare av blockchainteknik, tror att blockchainteknik och smarta kontrakt är den teknik som fundamentalt kommer förändra vår värld [1].  Idag förknippas blockchainteknik som oftast med Bitcoin och andra elektroniska valutor som används i ett spekulativt syfte, frågan är vad tekniken mer har att erbjuda. Är det här tekniken som kommer påverka oss alla om den får ett stort genomslag? 
