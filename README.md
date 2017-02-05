@@ -1,3 +1,7 @@
+<head><style type="text/css">
+span.increase {line-height: 1cm}
+</style>
+</head>
 
 # ”Blockchain”: är det framtidens demokrati vi skymtar?
 
