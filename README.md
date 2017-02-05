@@ -46,4 +46,10 @@ Intresset för demokrati över internet är ett område som är intressanta ur o
 
 Det finns många möjligheter i blockchaintekniken och den ser ut att potentiellt lösa vissa av de problem som demokratin står inför som t ex sjunkande förtroende. 
 
+##Referenser
+
+[1] Alex Tapscott, ”"Blockchain Revolution" | Talks at Google”, *Youtube*
+Publicerad: 11 juli 2016 Tillgänglig: https://www.youtube.com/watch?v=3PdO7zVqOwc [Hämtad: 5 februari, 2017]
+
+[2] A. Tapascott och D. Tapascott, *Blockchain revolution: How the technology behind Bitcoin is changing the money, buisness and the world*, Storbrittanien: Penguin Books, 2016. 
 
