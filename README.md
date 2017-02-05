@@ -55,5 +55,5 @@ Publicerad: 11 juli 2016 Tillgänglig: https://www.youtube.com/watch?v=3PdO7zVqO
 
 [3] M. Malkovský, *The concept of smart contracts*, Essä, Faculty of Law, Finland: University of Turku, 2015.
 
-
+[4] R. D. Putnam *Den fungerande demokratin: Medborgarandans rötter i Italien*, andra upplagan, Stockholm: SNS Förlag, 2011.
 
